@@ -1,0 +1,6 @@
+site_name: Practica 3
+site_url: https://funcionespractica1.com/
+nav:
+    - Home: index.md
+    - About: about.md
+theme: readthedocs
